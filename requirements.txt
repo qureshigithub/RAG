@@ -1,0 +1,11 @@
+Flask
+langchain
+langchain-groq
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+python-dotenv
+sentence-transformers
+pypdf
+faiss-cpu
+torch --extra-index-url https://pytorch.org
